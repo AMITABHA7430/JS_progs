@@ -4,23 +4,23 @@ switch(statusval)
 {
     case 1:
        {
-        console.log("super user");
+        console.log("r");
         break;
     
        }
     case 2:
     {
-        console.log("chutya");
+        console.log("ch");
         break;
     }
     case 3:
         {
-            console.log("chaman");
+            console.log("cn");
             break;
 
         }
         case 4:
             {
-                console.log("gandu");
+                console.log("dcfdfbg");
             }
 }
